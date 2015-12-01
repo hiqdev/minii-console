@@ -1,0 +1,10 @@
+package:
+    type:           library
+    name:           minii-console
+    namespace:      yii\console
+    title:          Minii Console
+    keywords:       minii, console
+
+require:
+    hiqdev/hidev-hiqdev: "*"
+    hiqdev/hidev-php:    "*"
