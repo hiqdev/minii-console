@@ -5,6 +5,9 @@ package:
     title:          Minii Console
     keywords:       minii, console
 
+composer.json:
+    name:           minii/console
+
 require:
     hiqdev/hidev-hiqdev: "*"
     hiqdev/hidev-php:    "*"

@@ -3,6 +3,7 @@ hiqdev/minii-console commits history
 
 ## Under development
 
+    - 71bf955 2015-12-01 inited (sol@hiqdev.com)
     - 4c62ec0 2015-11-28 + .gemrc (sol@hiqdev.com)
     - f9f6269 2015-11-28 + ruby gem to PATH (sol@hiqdev.com)
     - 908be70 2015-11-28 + tmux main pane options (sol@hiqdev.com)
