@@ -1,9 +1,10 @@
-Minii Console
+minii Console
 =============
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/minii-console/v/stable)](//packagist.org/packages/hiqdev/minii-console)
 [![Total Downloads](https://poser.pugx.org/hiqdev/minii-console/downloads)](//packagist.org/packages/hiqdev/minii-console)
 [![Build Status](https://img.shields.io/travis/hiqdev/minii-console.svg)](http://travis-ci.org/hiqdev/minii-console)
+[![Dependency Status](https://www.versioneye.com/php/hiqdev:minii-console/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:minii-console/dev-master)
 
 ## Installation
 

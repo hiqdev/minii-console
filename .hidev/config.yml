@@ -2,7 +2,7 @@ package:
     type:           library
     name:           minii-console
     namespace:      yii\console
-    title:          Minii Console
+    title:          minii Console
     keywords:       minii, console
 
 composer.json:
