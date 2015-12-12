@@ -1,5 +1,5 @@
-hiqdev/minii-console changelog
-------------------------------
+hiqdev/console changelog
+------------------------
 
 ## Under development
 

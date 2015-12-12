@@ -1,5 +1,5 @@
-hiqdev/minii-console commits history
-------------------------------------
+hiqdev/console commits history
+------------------------------
 
 ## Under development
 

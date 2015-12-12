@@ -1,10 +1,13 @@
 minii Console
 =============
 
-[![Latest Stable Version](https://poser.pugx.org/hiqdev/minii-console/v/stable)](//packagist.org/packages/hiqdev/minii-console)
-[![Total Downloads](https://poser.pugx.org/hiqdev/minii-console/downloads)](//packagist.org/packages/hiqdev/minii-console)
-[![Build Status](https://img.shields.io/travis/hiqdev/minii-console.svg)](http://travis-ci.org/hiqdev/minii-console)
-[![Dependency Status](https://www.versioneye.com/php/hiqdev:minii-console/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:minii-console/dev-master)
+[![Latest Stable Version](https://poser.pugx.org/minii/console/v/stable)](https://packagist.org/packages/minii/console)
+[![Total Downloads](https://poser.pugx.org/minii/console/downloads)](https://packagist.org/packages/minii/console)
+[![Build Status](https://img.shields.io/travis/hiqdev/minii-console.svg)](https://travis-ci.org/hiqdev/minii-console)
+[![Dependency Status](https://www.versioneye.com/php/hiqdev:console/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:console/dev-master)
+
+[minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
+This package provides console.
 
 ## Installation
 
@@ -13,13 +16,13 @@ The preferred way to install this library is through [composer](http://getcompos
 Either run
 
 ```sh
-php composer.phar require "hiqdev/minii-console"
+php composer.phar require "hiqdev/console"
 ```
 
 or add
 
 ```json
-"hiqdev/minii-console": "*"
+"hiqdev/console": "*"
 ```
 
 to the require section of your composer.json.

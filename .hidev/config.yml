@@ -1,13 +1,16 @@
+github:
+    name:           hiqdev/minii-console
+
 package:
     type:           library
-    name:           minii-console
+    name:           console
     namespace:      yii\console
     title:          minii Console
     keywords:       minii, console
-
-composer.json:
-    name:           minii/console
+    description:    |
+        [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
+        This package provides console.
 
 require:
-    hiqdev/hidev-hiqdev: "*"
-    hiqdev/hidev-php:    "*"
+    minii/hidev-vendor: "*"
+    hiqdev/hidev-php:   "*"
