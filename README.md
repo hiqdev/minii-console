@@ -7,7 +7,7 @@ minii Console
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:console/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:console/dev-master)
 
 [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
-This package provides console.
+This package provides yii\console.
 
 ## Installation
 

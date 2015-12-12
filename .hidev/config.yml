@@ -9,7 +9,7 @@ package:
     keywords:       minii, console
     description:    |
         [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
-        This package provides console.
+        This package provides yii\console.
 
 require:
     minii/hidev-vendor: "*"
